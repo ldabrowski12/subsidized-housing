@@ -21,8 +21,8 @@ var MapsLib = {
 
   //the encrypted Table ID of your Fusion Table (found under File => About)
   //NOTE: numeric IDs will be deprecated soon
-  fusionTableId:      "1qk9z46VakTMrA7zLpt8y4SfQos3FGsWhRTrww1yZ", //Point data layer
-  // https://www.google.com/fusiontables/DataSource?docid=1qk9z46VakTMrA7zLpt8y4SfQos3FGsWhRTrww1yZ   Final Point Data Table
+  fusionTableId:      "1RU_aQ3Mi4Gft6ROTZ4hESBoxQDDfNPmbAPAZeRNY", //Point data layer
+  // https://www.google.com/fusiontables/DataSource?docid=1RU_aQ3Mi4Gft6ROTZ4hESBoxQDDfNPmbAPAZeRNY#map:id=3   Final Point Data Table
 
   polygon1TableID:    "15BTIAXFlMroov7wbK_TF6ChW91Km32vhHbKNgM8u", // Opportunity-index-2014-updated-2015-02-10 (with Census 2010 tracts polygons)
   // https://www.google.com/fusiontables/DataSource?docid=15BTIAXFlMroov7wbK_TF6ChW91Km32vhHbKNgM8u
