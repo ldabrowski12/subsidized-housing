@@ -22,16 +22,13 @@ var MapsLib = {
   //the encrypted Table ID of your Fusion Table (found under File => About)
   //NOTE: numeric IDs will be deprecated soon
   fusionTableId:      "1RU_aQ3Mi4Gft6ROTZ4hESBoxQDDfNPmbAPAZeRNY", //Point data layer
-  // https://www.google.com/fusiontables/DataSource?docid=1RU_aQ3Mi4Gft6ROTZ4hESBoxQDDfNPmbAPAZeRNY#map:id=3   Final Point Data Table
+  // https://www.google.com/fusiontables/DataSource?docid=1RU_aQ3Mi4Gft6ROTZ4hESBoxQDDfNPmbAPAZeRNY   Final Point Data Table
 
   polygon1TableID:    "15BTIAXFlMroov7wbK_TF6ChW91Km32vhHbKNgM8u", // Opportunity-index-2014-updated-2015-02-10 (with Census 2010 tracts polygons)
   // https://www.google.com/fusiontables/DataSource?docid=15BTIAXFlMroov7wbK_TF6ChW91Km32vhHbKNgM8u
   
   polygon2TableID:    "1qm7D1p-nifgo9s6Hw4xW8G7RG8slwTNmd_OeGsI2", //CT town boundaries
   // https://www.google.com/fusiontables/DataSource?docid=1qm7D1p-nifgo9s6Hw4xW8G7RG8slwTNmd_OeGsI2
-  
-  polygon3URL:    "http://jackdougherty.github.io/opportunity-map/js/RaceDotDensity250.kmz",  // Unless someone has relative URL solution, CHANGE to final absolute location
-  // Natasha V. at MAGIC created this race dot-density map as a transparent KML layer
 
   //*New Fusion Tables Requirement* API key. found at https://code.google.com/apis/console/
   //*Important* this key is for demonstration purposes. please register your own.
