@@ -1,6 +1,6 @@
-opportunity-map
+subsidized-housing
 ============
-Interactive searchable map to display racial density and opportunity index, designed with Connecticut Open Communities Alliance (http://ctoca.org)
+Interactive searchable map to display subsidized housing and opportunity index, designed with Connecticut Open Communities Alliance (http://ctoca.org)
 
 ##Demo
 - http://erinboggs.github.io/opportunity-map/ OR http://jackdougherty.github.io/opportunity-map
